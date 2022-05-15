@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3af90af-de11-46f3-953d-ada7e42613f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DZ_1.1.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_1.1.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_2.1/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_2.1/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_2.1/HH.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_2.1/HH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_3.1/DZ_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_3.1/DZ_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_3.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_3.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_3.1/scrapingjob.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_3.1/scrapingjob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_4.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_4.1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_4.1/DZ_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_4.1/DZ_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_4.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_5.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_5.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_5.1/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_5.1/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ_5.1/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_5.1/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="lesson_6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="lesson_6.1" />
+                    <option name="lastUsedInstant" value="1652634881" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="lesson_6" />
+                    <option name="lastUsedInstant" value="1652633978" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/../.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="29CwhOQOlXNLvWxf4e5PyCizmlU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;C:/PROJECT/GIT HUB/API/DZ_6/README.md&#10;C:/PROJECT/GIT HUB/API/DZ_6/AVITOAvto/spiders/avito_avto.py&#10;C:/PROJECT/GIT HUB/API/DZ_6/AVITOAvto/middlewares.py" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="yaml" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/JetBrains/PyCharm 2021.1.3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROJECT\GIT HUB\API\DZ_6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="OPA_RUN_CONFIGURATION" factoryName="Opa configuration factory">
+      <option name="query" value="" />
+      <option name="additionalargs" value="" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="DZ_6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DZ_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3af90af-de11-46f3-953d-ada7e42613f5" name="Changes" comment="" />
+      <created>1652630496518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652630496518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
